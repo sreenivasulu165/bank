@@ -2,7 +2,7 @@ const account=require('./account')
 class b{
     constructor(idt, name, msgr, msge, msgef, m, kk){
 }
-}
+} 
 let a1=new account(  101,
     "kalish",
     "hello",
